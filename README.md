@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nomercy1994
+- 👋 Hi, I’m magdhammod
 - 👀 I’m interested in Robotics and machine learning
 - 🌱 I’m currently learning Robotics
 - 💞️ I’m looking to collaborate on Machine learning
